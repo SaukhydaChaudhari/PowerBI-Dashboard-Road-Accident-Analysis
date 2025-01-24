@@ -1,0 +1,1 @@
+#This project analyzes road accident data to identify patterns, trends, and contributing factors. It includes data preprocessing, visualizations, and geospatial analysis to uncover accident hotspots and improve road safety.
